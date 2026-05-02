@@ -1,0 +1,37 @@
+{
+    "dimensions": {
+        "width": 1024,
+        "height": 1024,
+        "iterations": 3000000,
+        "skip": 100,
+        "seed": 0
+    },
+    "transforms": {
+        "num_transforms": 25,
+        "zoom": 1.2,
+        "layers": 6
+    },
+    "style": {
+        "use_palette": true,
+        "palette_name": "palette_019",
+        "art_style": 3,
+        "blur_radius": 1.5,
+        "gamma": 1.1,
+        "vibrancy": 0.7,
+        "bg_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "symmetry": {
+        "type_index": 0,
+        "segments": 9
+    },
+    "animation": {
+        "frames": 0
+    },
+    "batch": {
+        "count": 1
+    }
+}
