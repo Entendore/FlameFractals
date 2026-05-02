@@ -38,5 +38,5 @@ dist/
 
 # >>> AUTO DISCOVERED RULES >>>
 __pycache__/
-palettes/
+output/
 # <<< AUTO DISCOVERED RULES <<<
